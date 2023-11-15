@@ -1,0 +1,1 @@
+export 'package:proyecto_base/app/presentation/views/home/home_view.dart';
